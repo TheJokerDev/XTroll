@@ -1,0 +1,4 @@
+name: XTroll
+version: '${version}'
+main: me.j0keer.xtroll.XTroll
+api-version: '1.20'
