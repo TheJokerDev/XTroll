@@ -1,0 +1,3 @@
+#If you want to remove any message, just set ''.
+general:
+  reload: '{prefix}<#7FFB66>Plugin reloaded successfully!</#9ABFFD>'
